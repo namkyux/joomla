@@ -1,0 +1,12 @@
+{
+    "name": "bah/intelgov",
+    "authors": [
+        {
+            "name": "Peter Yang",
+            "email": "namkyux@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^0.10.0"
+    }
+}
